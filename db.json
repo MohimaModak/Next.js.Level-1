@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Mountain Adventure",
+          "description": "Embark on a thrilling mountain adventure with breathtaking views and challenging trails. Experience the serenity of nature at its peak and conquer your limits. Whether hiking, climbing, or simply enjoying the landscape, this journey promises unforgettable moments.",
+          "likesCount": 350
+        },
+        {
+          "id": 2,
+          "title": "Gourmet Delights",
+          "description": "Indulge in a culinary journey with exquisite flavors and gourmet delights. From fine dining to local street food, explore diverse tastes that tantalize your senses. Discover hidden gems and savor every bite in a gastronomic experience unlike any other.",
+          "likesCount": 500
+        },
+        {
+          "id": 3,
+          "title": "Tech Innovations",
+          "description": "Explore the latest in technology innovations shaping the future. From AI and robotics to space exploration and sustainable energy solutions, delve into groundbreaking advancements driving global progress. Witness the evolution of ideas that redefine our world.",
+          "likesCount": 800
+        },
+        {
+          "id": 4,
+          "title": "Oceanic Wonders",
+          "description": "Dive into the depths of oceanic wonders teeming with life and mystery. Encounter majestic marine creatures and vibrant coral reefs. From diving adventures to marine conservation efforts, discover the beauty and importance of our oceans.",
+          "likesCount": 600
+        },
+        {
+          "id": 5,
+          "title": "Historical Marvels",
+          "description": "Uncover the richness of historical marvels spanning civilizations and epochs. From ancient ruins to medieval castles and modern landmarks, journey through time and witness the legacy of human achievement and cultural heritage.",
+          "likesCount": 450
+        },
+        {
+          "id": 6,
+          "title": "Artistic Expression",
+          "description": "Immerse yourself in the world of artistic expression across diverse mediums. From classical masterpieces to contemporary creations, explore the beauty and creativity that define cultures and inspire emotions.",
+          "likesCount": 300
+        }
+      ]      
+}
